@@ -1,7 +1,6 @@
 ```markdown
 # Organizational Unit Structure
 
-```text
 LAB
 ├── 00-Admin
 ├── 01-Users
