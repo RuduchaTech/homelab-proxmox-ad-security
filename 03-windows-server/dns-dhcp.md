@@ -16,7 +16,7 @@ Forwardes:
 DHCP Scope
 Setting	| Value |
 |---|---|
-| Scope |	| LAB |
+| Scope | LAB |
 | Network | 192.168.20.0/24 |
 | Gateway	| 192.168.20.1 |
 | DNS	| 192.168.20.10 |
