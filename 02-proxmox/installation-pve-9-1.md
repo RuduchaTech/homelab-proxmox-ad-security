@@ -1,5 +1,5 @@
 ```markdown
-# Proxmox VE 8.4 Installation
+# Proxmox VE 9.1 Installation
 
 ## Host Hardware
 
