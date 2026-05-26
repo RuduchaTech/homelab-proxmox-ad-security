@@ -56,6 +56,3 @@ Reason:
 lower RAM overhead,
 simpler management,
 suitable for 64GB environment.
-| local | ISO / templates |
-| tank-vm | VM disks |
-| qnap-backup | backup storage |
