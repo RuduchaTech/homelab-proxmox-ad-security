@@ -42,6 +42,9 @@
 
 | Storage | Purpose |
 |---|---|
+| local | ISO / templates |
+| tank-vm | VM disks |
+| qnap-backup | backup storage |
 
 Filesystem:
 
